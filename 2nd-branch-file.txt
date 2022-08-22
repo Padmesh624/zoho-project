@@ -1,1 +1,3 @@
-This is a second branch file named "newbranch2"
+gitThis is a second branch file named "newbranch2"
+
+It is in merge with Master
