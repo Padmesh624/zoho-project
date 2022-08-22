@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 This is a new file named "new".
-=======
+
 This is a master branch named "new"
->>>>>>> e7d9c90 (created  new file)
+
+All branches are merged with master
